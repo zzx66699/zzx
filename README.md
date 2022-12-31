@@ -15,6 +15,8 @@ Hi, I am Zhu Zhixin.
 [![Google Spreadsheet](https://img.shields.io/badge/--Python?label=Google_Sheet&logo=GoogleSheets&style=social)](https://github.com/zzx66699/Google_Spreadsheet)
 [![Tableau](https://img.shields.io/badge/--Python?label=Tableau&logo=Tableau&style=social)](https://github.com/zzx66699/Tableau)
 
-<summary>:zap: My GitHub data</summary>
+<details open>
+
+<summary> My GitHub data</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=zzx66699&show_icons=true&theme=nord" width="400px">
 </details>
