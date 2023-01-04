@@ -2,12 +2,12 @@
 
 Hi, I am Zhu Zhixin. 
 
-- How to reach me
+#### ☎️ How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/zhuzhixin-99/)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Email&logo=gmail&style=social)](mailto:e0787653@u.nus.edu)
 
-- What I am focusing on
+#### 📖 What I am focusing on
 
 [![Python](https://img.shields.io/badge/--Python?label=Python&logo=Python&style=social)](https://github.com/zzx66699/Python) 
 [![MySQL](https://img.shields.io/badge/--Python?label=MySQL&logo=MySQL&style=social)](https://github.com/zzx66699/SQL)
@@ -16,6 +16,6 @@ Hi, I am Zhu Zhixin.
 [![Tableau](https://img.shields.io/badge/--Python?label=Tableau&logo=Tableau&style=social)](https://github.com/zzx66699/Tableau)
 
 
- - <summary> My GitHub data</summary>
+#### 🔢 My GitHub data
   <img src="https://github-readme-stats.vercel.app/api?username=zzx66699&show_icons=true&theme=nord" width="400px">
 </details>
